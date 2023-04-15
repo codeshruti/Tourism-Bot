@@ -3,7 +3,7 @@ import openai
 from serpapi import GoogleSearch
 
 # Set up your OpenAI API key
-openai.api_key = #########3
+openai.api_key = #########
 
 # Define a function to search images using GoogleSearch API
 def search_images(query):
